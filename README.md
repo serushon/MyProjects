@@ -3,8 +3,8 @@
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 
-    ![image](https://user-images.githubusercontent.com/97159484/149994035-43903267-fe0b-4b27-87e1-540330d5769c.png)
-
+    
 
 </p>
+![image](https://user-images.githubusercontent.com/97159484/149994035-43903267-fe0b-4b27-87e1-540330d5769c.png)
 
