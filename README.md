@@ -1,4 +1,4 @@
-<p align="center">  Что похожее на блог, используя Laravel  </p>
+<p align="center">  Что то похожее на блог, используя Laravel  </p>
 
 
 
