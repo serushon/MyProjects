@@ -5,5 +5,5 @@
 </p>
 ![image](https://user-images.githubusercontent.com/97159484/149994035-43903267-fe0b-4b27-87e1-540330d5769c.png)
 
-![Image alt](https://github.com/serushon/myproject/raw/master/image/97159484/149994035-43903267-fe0b-4b27-87e1-540330d5769c.png)
+
 
